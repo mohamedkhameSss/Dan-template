@@ -94,497 +94,497 @@ h1::after {
 @keyframes move {
 
     1% {
-        content: 'D|';
+        content: 'M|';
     }
 
     2% {
-        content: 'De|';
+        content: 'Me|';
     }
 
     3% {
-        content: 'Des|';
+        content: 'Mer|';
     }
 
     4% {
-        content: 'Desi|';
+        content: 'Mern|';
     }
 
     5% {
-        content: 'Desig|';
+        content: 'Mern |';
     }
 
     6% {
-        content: 'Design|';
+        content: 'Mern S|';
     }
 
     7% {
-        content: 'Designer|';
+        content: 'Mern St|';
     }
 
     8% {
-        content: 'Designer';
+        content: 'Mern Sta';
     }
 
     9% {
-        content: 'Designer|';
+        content: 'Mern Stac|';
     }
 
     10% {
-        content: 'Design|';
+        content: 'Mern Stack|';
     }
 
     11% {
-        content: 'Desig|';
+        content: 'Mern Stack|';
     }
 
     12% {
-        content: 'Desi|';
+        content: 'Mern Stac|';
     }
 
     13% {
-        content: 'De|';
+        content: 'Mern Sta|';
     }
 
     14% {
-        content: 'D|';
+        content: 'Mern S|';
     }
 
     15% {
-        content: '|';
+        content: 'Mern|';
     }
 
     16% {
-        content: 'F|';
+        content: 'Mer|';
     }
 
     17% {
-        content: 'Fr|';
+        content: 'Me|';
     }
 
     18% {
-        content: 'Free|';
+        content: 'M|';
 
     }
 
 
     19% {
-        content: 'Freela|';
+        content: '|';
     }
 
     20% {
-        content: 'Freelanc|';
+        content: 'F|';
     }
 
     21% {
-        content: 'Freelance|';
+        content: 'Fr|';
 
     }
 
     22% {
-        content: 'Freelancer|';
+        content: 'Free|';
     }
 
     23% {
-        content: 'Freelancer';
+        content: 'Freel';
 
     }
 
     24% {
-        content: 'Freelance|';
-    }
-
-    25% {
-        content: 'Freelanc|';
-    }
-
-    26% {
         content: 'Freela|';
     }
 
+    25% {
+        content: 'Freelac|';
+    }
+
+    26% {
+        content: 'Freelance|';
+    }
+
     27% {
-        content: 'Freel|';
+        content: 'Freelanc|';
     }
 
     28% {
-        content: 'Free|';
+        content: 'Freelan|';
     }
 
     29% {
-        content: 'Free|';
+        content: 'Freelan|';
     }
 
     30% {
-        content: 'Fre|';
+        content: 'Freela|';
     }
 
     31% {
-        content: 'Fr|';
+        content: 'Freel|';
     }
 
     32% {
-        content: 'F|';
+        content: 'Free|';
     }
 
     33% {
-        content: '|';
+        content: 'Fre|';
     }
 
     34% {
-        content: 'P|';
+        content: 'Fr|';
     }
 
     35% {
-        content: ' Ph|';
+        content: ' F|';
 
     }
 
     36% {
-        content: 'Pho|';
+        content: '|';
     }
 
     37% {
-        content: 'Photo|';
+        content: 'R|';
 
     }
 
     38% {
-        content: 'Photog|';
+        content: 'Re|';
     }
 
     39% {
-        content: 'Photogra|';
+        content: 'Rea|';
 
     }
 
     40% {
-        content: 'Photograp|';
+        content: 'Reac|';
     }
 
     41% {
-        content: 'Photographe|';
+        content: 'React|';
 
     }
 
     42% {
-        content: 'Photographer|';
+        content: 'React |';
     }
 
     43% {
-        content: 'Photographer|';
+        content: 'React D|';
 
     }
 
     44% {
-        content: 'Photographer';
+        content: 'React De';
 
     }
 
     45% {
-        content: 'Photographer|';
+        content: 'React Dev|';
 
     }
 
     46% {
-        content: 'Photographer';
+        content: 'React Deve';
 
     }
 
     47% {
-        content: 'Photographer|';
+        content: 'React Devel|';
 
     }
 
     48% {
-        content: 'Photographe|';
+        content: 'React Develo|';
 
     }
 
     49% {
-        content: 'Photograph|';
+        content: 'React Develop|';
 
     }
 
     50% {
-        content: 'Photograp|';
+        content: 'React Develope|';
 
     }
 
     51% {
-        content: 'Photogra|';
+        content: 'React Developer|';
 
     }
 
     52% {
-        content: 'Photogr|';
+        content: 'N|';
 
     }
 
     53% {
-        content: 'Photog|';
+        content: 'Ne|';
 
     }
 
     54% {
-        content: 'Photo|';
+        content: 'Nex|';
 
     }
 
     55% {
-        content: 'Phot|';
+        content: 'Next|';
 
     }
 
     56% {
-        content: 'Pho|';
+        content: 'Next|';
 
     }
 
     57% {
-        content: 'Ph|';
+        content: 'NextJ|';
 
     }
 
     58% {
-        content: 'P|';
+        content: 'NextJs|';
 
     }
 
     59% {
-        content: '|';
+        content: 'NextJs |';
 
 
     }
 
     60% {
-        content: ' K|';
+        content: ' NextJs D|';
 
 
     }
 
     61% {
-        content: ' Kh|';
+        content: ' NextJs De|';
 
 
     }
 
     62% {
-        content: ' Kha|';
+        content: ' NextJs Dev|';
 
 
     }
 
     63% {
-        content: ' Kham|';
+        content: ' NextJs Deve|';
 
 
     }
 
     64% {
-        content: ' Khame|';
+        content: ' NextJs Devel|';
 
 
     }
 
     65% {
-        content: ' Khames|';
+        content: ' NextJs Develo|';
 
 
     }
 
     66% {
-        content: ' Khamess |';
+        content: ' NextJs Develop|';
 
 
     }
 
     67% {
-        content: ' Khamess|';
+        content: ' NextJs Develope|';
 
 
     }
 
     68% {
-        content: ' Khamess H|';
+        content: ' NextJs Developer|';
 
 
     }
 
     69% {
-        content: ' Khamess Ha|';
+        content: ' NextJs Develope|';
 
 
     }
 
     70% {
-        content: ' Khamess Has|';
+        content: ' NextJs Develop|';
 
 
     }
 
     71% {
-        content: ' Khamess Hass|';
+        content: ' NextJs Develo|';
 
 
     }
 
     72% {
-        content: ' Khamess Hassa|';
+        content: ' NextJs Devel|';
 
 
     }
 
     73% {
-        content: ' Khamess Hassan';
+        content: ' NextJs Deve';
 
 
     }
 
     74% {
-        content: ' Khamess Hassan|';
+        content: ' NextJs Dev|';
 
 
     }
 
     75% {
-        content: ' Khamess Hassan|';
+        content: ' NextJs De|';
 
 
     }
 
     76% {
-        content: ' Khamess Hassan|';
+        content: ' NextJs D|';
 
 
     }
 
     77% {
-        content: ' Khamess Hassa|';
+        content: ' NextJs |';
 
 
     }
 
     78% {
-        content: ' Khamess Hass|';
+        content: ' NextJs|';
 
 
     }
 
     79% {
-        content: ' Khamess Has|';
+        content: ' NextJ|';
 
 
     }
 
     80% {
-        content: ' Khamess H|';
+        content: ' Next|';
 
 
     }
 
     81% {
-        content: ' Khames|';
+        content: ' Nex|';
 
 
     }
 
     82% {
-        content: ' Khame|';
+        content: ' N|';
 
 
     }
 
     83% {
-        content: ' Kha|';
-
-
-    }
-
-    84% {
-        content: ' Kh|';
-
-
-    }
-
-    85% {
-        content: ' K|';
-
-
-    }
-
-    86% {
-        content: ' K|';
-
-
-    }
-
-    87% {
         content: ' |';
 
 
     }
 
+    84% {
+        content: ' K|';
+
+
+    }
+
+    85% {
+        content: ' Kh|';
+
+
+    }
+
+    86% {
+        content: ' Kha|';
+
+
+    }
+
+    87% {
+        content: ' Kham|';
+
+
+    }
+
     88% {
-        content: ' L|';
+        content: ' Khame|';
 
 
     }
 
     89% {
-        content: ' LI|';
+        content: ' Khames|';
 
 
     }
 
     90% {
-        content: ' LIO|';
+        content: ' Khamess|';
 
 
     }
 
     91% {
-        content: ' LION|';
+        content: ' Khames|';
 
 
     }
 
     92% {
-        content: ' LION';
+        content: ' Khame';
 
 
     }
 
     93% {
-        content: ' LION|';
+        content: ' Kham|';
 
 
     }
 
     94% {
-        content: ' LION';
+        content: ' Kha';
 
 
     }
 
     95% {
-        content: ' LION|';
+        content: ' Kh|';
 
 
     }
 
     96% {
-        content: ' LIO|';
+        content: ' K|';
 
 
     }
 
     97% {
-        content: ' LI|';
+        content: ' K|';
 
 
     }
 
     98% {
-        content: ' L|';
+        content: ' |';
 
 
     }
